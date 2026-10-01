@@ -1,6 +1,6 @@
 # Spaceship Titanic
 
-Binary classification on the Kaggle **Spaceship Titanic** dataset: predict whether a passenger was `Transported` to another dimension. Built as Business Challenge #2 during my MSc in Business Analytics (Hult).
+Binary classification on the Kaggle **Spaceship Titanic** dataset: predict whether a passenger was `Transported` to another dimension. Built as "Business Challenge #2".
 
 ## Approach
 
